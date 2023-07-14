@@ -1,0 +1,20 @@
+.goo{
+    padding-top: 20px;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    border-radius: 20px;
+    position: absolute;
+    top: 265px;
+    left: 200px;
+    background-color: aquamarine;
+    border: 3px solid black;
+    line-height: 150%;
+  }
+  .h{
+    font-size: 32px;
+    font-weight: bold;
+  }
+  .line{
+    padding-top: 20px;
+  }

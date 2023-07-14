@@ -1,0 +1,20 @@
+.go{
+    padding-top: 20px;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    border-radius: 20px;
+    position: absolute;
+    bottom: 150px;
+    left: 800px;
+    background-color: rgb(180, 77, 180);
+    border: 3px solid black;
+    line-height: 150%;
+  }
+  .h{
+    font-size: 32px;
+    font-weight: bold;
+  }
+  .line{
+    padding-top: 20px;
+  }
